@@ -86,10 +86,10 @@ MonoBehaviour:
     m_Value: 0
   quality:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 2
   intensity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   clamp:
     m_OverrideState: 1
     m_Value: 0.05
@@ -403,10 +403,10 @@ MonoBehaviour:
   active: 1
   type:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 9
   intensity:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   response:
     m_OverrideState: 1
     m_Value: 0.8
@@ -531,13 +531,11 @@ MonoBehaviour:
   - {fileID: -7084532737610156148}
   - {fileID: 7857216271519567098}
   - {fileID: -6016013848037856970}
-  - {fileID: 1179110754311123448}
   - {fileID: -702579042553974290}
   - {fileID: -2564822636774193681}
   - {fileID: -5711534476357357415}
   - {fileID: -6891176993696305954}
   - {fileID: 646647029807913677}
-  - {fileID: -1835810887739732467}
 --- !u!114 &192518158036494382
 MonoBehaviour:
   m_ObjectHideFlags: 3
